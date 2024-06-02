@@ -57,9 +57,11 @@ body{
     color:white;
     border: 2px solid var(--primary-color);
     transition: 0.5s;
+    margin-top: 10px;
 }
 .card button:hover{
     background-color: var(--primary-color);
+    margin-top: 15px;
 }
 .card_social a{
     margin: 25px 20px;
